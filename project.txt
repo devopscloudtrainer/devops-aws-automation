@@ -1,0 +1,9 @@
+=================================================================================================================
+Github Account creation:
+================================================================================================================
+Github Administration part-1:
+ * Repository creation
+ * Branch creation
+ * Tag creation
+ * Create file and commit changes
+ * How to list commits and detailed info about commits
